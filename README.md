@@ -1,4 +1,5 @@
 # Sales-forecasting-challenge
+
 ├── README.md
 ├── CODE/
 │   └── SOLUTION_1.PY
@@ -8,6 +9,19 @@
 ├── OUTPUT/
 │   └── SOLUTION_1.png
 │   └── SOLUTION_2.png
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 📊 Sales Forecasting Report
