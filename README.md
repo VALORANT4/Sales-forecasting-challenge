@@ -95,11 +95,3 @@ Forecast Horizon	7 Days	7 Days
 
 ✅ Comparison Plot: Shows all three lines – actual, Prophet, XGBoost
 
-6. 📌 Recommendations
-Use Prophet when interpretability and long-term trends matter.
-
-Use XGBoost when you have rich, engineered features or short-term adaptability is crucial.
-
-Optionally combine both into an ensemble model for better accuracy.
-
-Consider building a Streamlit dashboard to monitor forecasts live.
