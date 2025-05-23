@@ -6,7 +6,7 @@ from datetime import timedelta
 from sklearn.metrics import mean_squared_error
 
 # Load data
-file_path = r"C:\VIBES\sales-forcecasting\data.csv"
+file_path = r"C:\VIBES\sales-forcecasting\DATA\data.csv"
 df = pd.read_csv(file_path, encoding='ISO-8859-1')
 
 # Preprocessing
