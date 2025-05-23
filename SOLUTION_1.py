@@ -5,7 +5,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from prophet import Prophet
 
-data = pd.read_csv("C:\VIBES\sales-forcecasting\data.csv", encoding='ISO-8859-1')  # or use .xlsx with pd.read_excel
+data = pd.read_csv("C:\VIBES\sales-forcecasting\DATA\data.csv", encoding='ISO-8859-1')  # or use .xlsx with pd.read_excel
 
 # Display the first 5 rows
 print(data.head())
